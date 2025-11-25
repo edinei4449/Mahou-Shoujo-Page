@@ -1,0 +1,182 @@
+[
+
+{
+    "nome": "Sailor Moon",
+    "imagem": "img/sailor-moon.jpg",
+    "descricao": "Uma garota comum que se transforma em uma guerreira mágica para proteger a Terra de forças do mal.",
+    "data_criacao": 1992,
+    "link": "https://youtu.be/E95FjAJ_mog?si=2sZnzxjf8Lxf1LZb"
+},
+
+{
+    "nome": "Card Captor Sakura" ,
+    "imagem": "img/sakura-card-captor.jpg",
+    "descricao":"Uma jovem garota que descobre poderes mágicos ao liberar cartas mágicas seladas." ,
+    "data_criacao": 1998,
+    "link": "https://youtu.be/x_ExhLkuv6Y?si=sdYc8XCf-FfeVdkD"
+},
+ {
+   "nome": "Puella Magi Madoka Magica",
+   "imagem": "img/puella-magi-madoka-magica.jpg",
+    "descricao": "Um grupo de garotas do ensino médio que recebem poderes mágicos de uma criatura misteriosa, mas descobrem o lado sombrio de ser uma garota mágica.",
+    "data_criacao": 2011,
+    "link": "https://youtu.be/OrgpX-_bFqM?si=gIfpbWne3D-PJEJw"
+  },
+  {
+    "nome": "Precure (Futari wa Pretty Cure)",
+    "imagem": "img/precure.jpg",
+    "descricao": "Duas garotas com personalidades opostas se unem para se transformar em guerreiras lendárias e lutar contra as forças do mal.",
+    "data_criacao": 2004,
+    "link": "https://youtu.be/SX836fYQL4E?si=gG1Bs5Jw-nOBPOik"
+  },
+  {
+    "nome": "Tokyo Mew Mew",
+    "imagem": "img/tokyo-mew-mew.jpg",
+    "descricao": "Cinco garotas são infundidas com o DNA de animais em extinção, ganhando poderes para lutar contra alienígenas que querem dominar a Terra.",
+    "data_criacao": 2002,
+    "link": "youtube.com"
+  },
+  {
+    "nome": "Magical Girl Lyrical Nanoha",
+    "imagem": "img/magical-girl-lyrical-nanoha.jpg",
+    "descricao": "Uma garota comum que se torna uma maga e se envolve em batalhas para coletar joias mágicas e proteger o mundo.",
+    "data_criacao": 2004,
+    "link": "https://youtu.be/J_hZLbh3yQ0?si=14Klw3ERD49EQRnz"
+  },
+
+  {
+    "nome": "Yuki Yuna wa Yuusha de Aru",
+    "imagem": "img/yuki-yuna-wa-yuusha-de-aru.jpg",
+    "descricao": "Conhecida por ser uma 'dark magical girl' que explora o custo físico e mental das transformações heroicas, similar ao sistema de 'mankai'.",
+    "data_criacao": "2014",
+    "link": "https://youtu.be/4TDBj0fEnx4?si=fLmGumUwHdk6fSiE"
+  },
+  {
+    "nome": "Magical Girl Raising Project",
+    "imagem": "img/magical-girl-raising-project.jpg",
+    "descricao": "Um anime de garotas mágicas no estilo 'battle royale', onde a sobrevivência e a competição cruel pelo poder são centrais.",
+    "data_criacao": "2016",
+    "link": "https://youtu.be/1jH_3CjPxlU?si=4l5Uhx8FRBk8BVXm"
+  },
+  {
+    "nome": "Ojamajo Doremi",
+    "imagem": "img/ojamajo-doremi.jpg",
+    "descricao": "Uma série clássica focada em aprendizado de bruxaria, amizade e temas cotidianos, com um estilo de animação vibrante e mágico.",
+    "data_criacao": "1999",
+    "link": "https://youtu.be/9CioAYtz4iM?si=ASrCKgWwgkpL03bq"
+  },
+  {
+    "nome": "Shugo Chara!",
+    "imagem": "img/shugo-chara.jpg",
+    "descricao": "Uma garota lida com a pressão social, usando ovos mágicos que manifestam seus 'eus ideais' (Shugo Chara) para se transformar e lutar.",
+    "data_criacao": "2007",
+    "link": "https://youtu.be/a5S3TUaQLHM?si=BpmMPlhrQOX7FRL9"
+  },
+  {
+    "nome": "Princess Tutu",
+    "imagem": "img/princess-tutu.jpg",
+    "descricao": "Um anime com forte foco em balé e contos de fadas, onde uma pata se transforma em uma garota mágica para restaurar os fragmentos do coração de um príncipe.",
+    "data_criacao": "2002",
+    "link": "https://youtu.be/IwYcU3RSgWI?si=Gn7qTObv49OQUcqp"
+  },
+  {
+    "nome": "Wedding Peach",
+    "imagem": "img/wedding-peach.jpg",
+    "descricao": "Série com tema de casamento e anjos, onde as heroínas se transformam em 'Anjas do Amor' para combater demônios que buscam destruir o amor no mundo.",
+    "data_criacao": "1995",
+    "link": "https://youtu.be/gXDpxRN1cFo?si=KO0ozgEUQGF_Le6n"
+  },
+  {
+    "nome": "Mermaid Melody Pichi Pichi Pitch",
+    "imagem": "img/mermaid-melody-pichi-pichi-pitch.jpg",
+    "descricao": "Garotas mágicas que são princesas sereias e usam o poder de suas canções de ídolo pop para derrotar inimigos marinhos.",
+    "data_criacao": "2003",
+    "link": "https://youtu.be/flP1movZMCM?si=OTlL-AcA7mbfPPmo"
+  },
+  {
+    "nome": "Go! Princess Precure",
+    "imagem": "img/go-princess-precure.jpg",
+    "descricao": "Uma sub-série de Precure notável pelo foco em aspirações e a temática de princesas elegantes, defendendo sonhos contra o desespero.",
+    "data_criacao": "2015",
+    "link": "https://youtu.be/05KPupAH6Do?si=XS0Y1gPC46y3VURE"
+  },
+  {
+    "nome": "Maho Girls Precure!",
+    "imagem": "img/maho-girls-precure.jpg",
+    "descricao": "Focada na fusão de dois mundos mágicos, esta série é famosa pelo uso de diferentes formas de transformação baseadas em pedras preciosas (Linkle Stones).",
+    "data_criacao": "2016",
+    "link": "https://youtu.be/BIjVRI6naRg?si=G-8cr6rqt5OMow6X"
+  },
+  {
+    "nome": "Kamikaze Kaito Jeanne",
+    "imagem": "img/kamikaze-kaito-jeanne.jpg",
+    "descricao": "Uma série sobre uma 'Kaito' (ladrã fantasma) mágica que é a reencarnação de Joana D'Arc, roubando demônios escondidos em obras de arte.",
+    "data_criacao": "1998",
+    "link": "https://youtu.be/yAJUIdah6dA?si=hCJtyuHlcLbZOdGA"
+  },
+  {
+    "nome": "Magical Girl Ore",
+    "imagem": "img/magical-girl-ore.jpg",
+    "descricao": "Uma paródia de garota mágica onde a heroína se transforma em um musculoso homem mágico 'bishounen' para proteger seu amado.",
+    "data_criacao": "2018",
+    "link": "https://youtu.be/NbberlY3vbE?si=Nv8WQ89o_9EGjnfC"
+  },
+
+  {
+    "nome": "Day Break Illusion (Genei wo Kakeru Taiyou)",
+    "imagem": "img/day-break-illusion.jpg",
+    "descricao": "Garotas mágicas que usam o poder das cartas de Tarô para lutar contra demônios, mas correm o risco de se tornarem elas mesmas 'Daemons'.",
+    "data_criacao": "2013",
+    "link": "https://youtu.be/j3kojyEJfmE?si=oEenoGkFYaSH3SYQ"
+  },
+  {
+    "nome": "Flip Flappers",
+    "imagem": "img/flip-flappers.jpg",
+    "descricao": "Uma série de fantasia surreal e colorida, onde duas garotas mágicas viajam por dimensões alternativas (Pure Illusion) em busca de fragmentos de um cristal mágico.",
+    "data_criacao": "2016",
+    "link": "https://youtu.be/GfXpk0l9flE?si=entifTNKevG0cHoS"
+  },
+  {
+    "nome": "WIXOSS (Selector Infected WIXOSS)",
+    "imagem": "img/wixoss.jpg",
+    "descricao": "Um anime de garota mágica focado em um jogo de cartas mortal, onde as jogadoras (Selectors) arriscam seus desejos e memórias em duelos.",
+    "data_criacao": "2014",
+    "link": "https://youtu.be/SRPqswHvUyw?si=K9N3IutHDRfZjT-a"
+  },
+  {
+    "nome": "Tropical-Rouge! Precure",
+    "imagem": "img/tropical-rouge-precure.jpg",
+    "descricao": "Uma das sub-séries mais recentes de Precure, focada em temas de verão, maquiagem e 'transformação com brilho' (motivação de se divertir).",
+    "data_criacao": "2021",
+    "link": "https://youtu.be/UYuLjeshB9A?si=LBE1TqvGeXSChjGg"
+  },
+
+  {
+    "nome": "Re:Cutie Honey",
+    "imagem": "img/re-cutie-honey.jpg",
+    "descricao": "Uma reimaginação ousada da clássica heroína 'Cutie Honey', com ênfase em Henshin de alta tecnologia e comédia de ação.",
+    "data_criacao": "2004",
+    "link": "https://youtu.be/9LxrmAy3vwY?si=ImATxvvCyqTpxOOc"
+  },
+  {
+    "nome": "ViVid Strike!",
+    "imagem": "img/vivid-strike.jpg",
+    "descricao": "Um spin-off da franquia Nanoha, focado intensamente em artes marciais e treinamento, onde a magia é usada primariamente para aprimoramento físico e combate corpo a corpo.",
+    "data_criacao": "2016",
+    "link": "https://youtu.be/gCSNJp8vNpE?si=b6WoTwNyG9QeFWtm"
+  },
+  {
+    "nome": "Healin' Good Precure",
+    "imagem": "img/healin-good-precure.jpg",
+    "descricao": "Uma série de Precure focada na cura e preservação da natureza, onde as heroínas lutam contra doenças e poluição (Byogens).",
+    "data_criacao": "2020",
+    "link": "https://youtu.be/A-ZbxJyZeUU?si=UpflCupyugsPwvZl"
+  },
+  {
+    "nome": "Magical Destroyers",
+    "imagem": "img/magical-destroyers.jpg",
+    "descricao": "Um anime cyberpunk e caótico onde um grupo de heróis Otakus lutam para proteger a cultura pop do Japão de um regime opressor que busca erradicá-la.",
+    "data_criacao": "2023",
+    "link": "https://youtu.be/zaHP_yjEb4E?si=6SpjkYRUJZi7Mz3V"
+  }
+]
